@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KitchenKorner</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="newacc">Create new Account</string>
+    <string name="oldacc">Already have Account</string>
+    <string name="api_key">d3ad907c4df047e28090eebda8b1e163</string>
+    <string-array name="tags">
+        <item>Categories</item>
+        <item>North-Indian</item>
+        <item>South-Indian</item>
+        <item>Desserts</item>
+        <item>Juices</item>
+        <item>Chats</item>
+    </string-array>
+</resources>

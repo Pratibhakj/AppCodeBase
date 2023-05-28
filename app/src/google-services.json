@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476379847067",
+    "project_id": "kitchenkorner-8b58e",
+    "storage_bucket": "kitchenkorner-8b58e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476379847067:android:50b9a43134a05b55bca93e",
+        "android_client_info": {
+          "package_name": "com.devdroid.kitchenkorner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT3TmNgAHzbg8Zgad4JoO7ViVlCSJFTgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
